@@ -1,0 +1,127 @@
+identifier,googleplaystorepage,domain,General Notes,Exploration Base,Exploration Base with improved ls,PLAYBACK 1,PLAYBACK 2,PLAYBACK 3, PLAYBACK 4,PLAYBACK 5
+
+com.facebook.Socal,https://play.google.com/store/apps/details?id=com.facebook.Socal,social,ERROR apktool failure 2.4.1
+ru.ok.android,https://play.google.com/store/apps/details?id=ru.ok.android,social,ERROR apktool failure 2.4.1
+com.zhiliaoapp.musically,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically,social,ERROR apktool failure 2.4.1
+com.facebook.katana,https://play.google.com/store/apps/details?id=com.facebook.katana,social,ERROR apktool failure 2.4.1
+wp.wattpad,https://play.google.com/store/apps/details?id=wp.wattpad,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.hexicallabs.devrant,https://play.google.com/store/apps/details?id=com.hexicallabs.devrant,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.jappy.mobileMessenger,https://play.google.com/store/apps/details?id=com.jappy.mobileMessenger,social,ERROR network problems
+com.medium.reader,https://play.google.com/store/apps/details?id=com.medium.reader,social,ERROR network problems
+com.SocialClub.SocialClub,https://play.google.com/store/apps/details?id=,social,ERROR installation timeout
+kik.android,https://play.google.com/store/apps/details?id=kik.android,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.facebook.lite,https://play.google.com/store/apps/details?id=com.facebook.lite,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.vkontakte.android,https://play.google.com/store/apps/details?id=com.vkontakte.android,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.snapchat.android,https://play.google.com/store/apps/details?id=com.snapchat.android,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.linkedin.android,https://play.google.com/store/apps/details?id=com.linkedin.android,social,ERROR installation failure INSTALL_FAILED_NO_MATCHING_ABIS
+com.instagram.android,https://play.google.com/store/apps/details?id=com.instagram.android,social,ERROR installation failure
+com.pinterest,https://play.google.com/store/apps/details?id=com.pinterest,social,RUNS but Pinterest_6.54.0 gets RuntimeException: UI extraction 7408032 gets INSTALL_FAILED_NO_MATCHING_ABIS
+com.tellm.android.app,https://play.google.com/store/apps/details?id=com.tellm.android.app,social,RUNS but doesnt work in emulator because of the location service
+com.deezus.chanoran,https://play.google.com/store/apps/details?id=com.deezus.chanoran,social,RUNS,NOT EXECUTED,PENDING
+com.ninegag.android.app,https://play.google.com/store/apps/details?id=com.ninegag.android.app,social,RUNS,ERROR waitForIdle,SUCCESS,SUCCESS
+com.twitter.android.lite,https://play.google.com/store/apps/details?id=com.twitter.android.lite,social,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.reddit.frontpage,https://play.google.com/store/apps/details?id=com.reddit.frontpage,social,RUNS LeftAppStrategy doesnt work that well,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+me.tutti.tutti,https://play.google.com/store/apps/details?id=me.tutti.tutti,social,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.tumblr,https://play.google.com/store/apps/details?id=com.tumblr,social,RUNS v114070000 works v13.2.0.00 crashes always with one input screen,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+
+org.jschwab.openrecipes,https://f-droid.org/de/packages/org.jschwab.openrecipes/,recipe,ERROR installation failure
+com.tudorspan.recipekeeper,https://play.google.com/store/apps/details?id=com.tudorspan.recipekeeper,recipe,ERROR installation failure
+com.gd.urdudrinkrecipes,https://play.google.com/store/apps/details?id=com.gd.urdudrinkrecipes,recipe,ERROR too much indian language
+com.recipesappsempire.bisquickrecipes,https://play.google.com/store/apps/details?id=com.recipesappsempire.bisquickrecipes,recipe,ERROR crashes in the first screen all the time
+com.yummly.android,https://play.google.com/store/apps/details?id=com.yummly.android,recipe,ERROR some functionalities have network trouble
+com.buzzfeed.tasty,https://play.google.com/store/apps/details?id=com.buzzfeed.tasty,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+fr.cookbook,https://play.google.com/store/apps/details?id=fr.cookbook,recipe,RUNS,SUCCESS but waitForIdle issues,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+cookbook.tasty.recipes,https://play.google.com/store/apps/details?id=cookbook.tasty.recipes,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.ajnsnewmedia.kitchenstories,https://play.google.com/store/apps/details?id=com.ajnsnewmedia.kitchenstories,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.hurrythefoodup.app,https://play.google.com/store/apps/details?id=com.hurrythefoodup.app,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+tixonic.recipe.cookbookeng,https://play.google.com/store/apps/details?id=tixonic.recipe.cookbookeng,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+tixonic.recipe.cocktailreceipeeng,https://play.google.com/store/apps/details?id=tixonic.recipe.cocktailreceipeeng,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.lovelyAI.CocktailsBarLiquorRecipes,https://play.google.com/store/apps/details?id=com.lovelyAI.CocktailsBarLiquorRecipes,recipe,RUNS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+
+co.hinge.app,https://play.google.com/store/apps/details?id=co.hinge.app,dating,ERROR apktool failure 2.4.1
+net.edarling.mobile,https://play.google.com/store/apps/details?id=net.edarling.mobile,dating,ERROR apktool failure 2.4.1
+com.golimoir,https://play.google.com/store/apps/details?id=com.golimoir,dating,ERROR crashes on app start
+com.antoniouli,https://play.google.com/store/apps/details?id=com.antoniouli,dating,ERROR crashes on app start
+net.lovoo.android,https://play.google.com/store/apps/details?id=net.lovoo.android,dating,ERROR crashes on app start
+com.restud.lovero,https://play.google.com/store/apps/details?id=com.restud.lovero,dating,ERROR installation failure timeout
+com.datingyourlove.app,https://play.google.com/store/apps/details?id=com.datingyourlove.app,dating,ERROR unable to download
+xyz.appmaker.dyaohu,https://play.google.com/store/apps/details?id=xyz.appmaker.dyaohu,dating,ERROR only opens chrome with a website
+com.spark.jdate,https://play.google.com/store/apps/details?id=com.spark.jdate,dating,ERROR v4.1.1 v30019006_apps errors
+me.alexbojkogroup.lovehub,https://play.google.com/store/apps/details?id=me.alexbojkogroup.lovehub,dating,ERROR shows german dialogs
+com.likiss.girls,https://play.google.com/store/apps/details?id=com.likiss.girls,,ERROR not dating
+at.schneider_holding.candidate,https://play.google.com/store/apps/details?id=at.schneider_holding.candidate,dating,ERROR doesnt succeed in login because isStruck too fast
+com.eastmeeteast.eme_android,https://play.google.com/store/apps/details?id=com.eastmeeteast.eme_android,dating,ERROR exploration is shitty ip geo restriction for registration
+com.eharmony,https://play.google.com/store/apps/details?id=com.eharmony,dating,ERROR login and registration doesnt work or apktool failure
+com.hotornot.app,https://play.google.com/store/apps/details?id=com.hotornot.app,dating,ERROR adb failure
+com.evermatch,https://play.google.com/store/apps/details?id=com.evermatch,dating,ERROR strategy cannot handle date picker
+app.pickable.android,https://play.google.com/store/apps/details?id=app.pickable.android,dating,ERROR phone number to verify and no easy login
+com.improver.heyyodating,https://play.google.com/store/apps/details?id=com.improver.heyyodating,dating,ERROR installation
+com.sweetupdating,https://play.google.com/store/apps/details?id=com.sweetupdating,dating,ERROR crashes on app start
+com.mason.senior.meetme,,dating,ERROR installation
+com.mdd.dating,https://play.google.com/store/apps/details?id=com.mdd.dating,dating,TEST
+mingle.android.mingle2,https://play.google.com/store/apps/details?id=mingle.android.mingle2,dating,TEST
+com.dating.android,https://play.google.com/store/apps/details?id=com.dating.android,dating,RUNS seems fine,SUCCESS,FAIL doesnt succeed login
+cdff.mobileapp,https://play.google.com/store/apps/details?id=cdff.mobileapp,dating,RUNS,NOT EXECUTED,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+de.mobiletrend.lovidoo,https://play.google.com/store/apps/details?id=de.mobiletrend.lovidoo,dating,RUNS but there are no profiles when exploring 'REDEEM' waitForIdleTimeout,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.spark.com.silversingles.app,https://play.google.com/store/apps/details?id=com.spark.com.silversingles.app,dating,RUNS but backlisted waitForIdleTimeout 'get premium' 'BECOME A PREMIUM MEMBER' button,SUCCESS,SUCCESS but didnt click a profile,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.thedatinglab.tdlconnect,https://play.google.com/store/apps/details?id=com.thedatinglab.tdlconnect,dating,RUNS 3.3 stars seems fine,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.datemyage,https://play.google.com/store/apps/details?id=com.datemyage,dating,RUNS seems fine,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+
+com.lonelyplanet.guides,https://play.google.com/store/apps/details?id=com.lonelyplanet.guides,travel,ERROR app crashes instantly
+com.ryanair.cheapflights,https://play.google.com/store/apps/details?id=com.ryanair.cheapflights,travel,ERROR apktool failure
+com.emirates.ek.android,https://play.google.com/store/apps/details?id=com.emirates.ek.android,travel,ERROR apktool failure
+cz.studio9.sa,https://play.google.com/store/apps/details?id=cz.studio9.sa,travel,ERROR apktool failure
+com.mttnow.android.etihad,https://play.google.com/store/apps/details?id=com.mttnow.android.etihad,travel,ERROR keeps showing the same screen
+com.m.qr,https://play.google.com/store/apps/details?id=com.m.qr,travel,RUNS but network problems
+com.sla.app,https://play.google.com/store/apps/details?id=com.sla.app,travel,RUNS but Email field is incorrectly labeled and password field has length restrictions
+com.delta.mobile.android,https://play.google.com/store/apps/details?id=com.delta.mobile.android,travel,RUNS
+com.hostelworld.app,https://play.google.com/store/apps/details?id=com.hostelworld.app,travel,RUNS had once waitForIdleTimeout issue in signin dialog,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.wego.android,https://play.google.com/store/apps/details?id=com.wego.android,travel,RUNS but waitForIdleTimeout issue in signin with google dialog,SUCCESS,SUCCESS,SUCCESS
+com.kuwaitairways.mapps,https://play.google.com/store/apps/details?id=com.kuwaitairways.mapps,travel,RUNS but blacklisted waitForIdleTimeout online checkin dialog,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.tripadvisor.tripadvisor,https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor,travel,RUNS but blacklsited waitForIdleTimeout google login dialog,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+com.trivago,https://play.google.com/store/apps/details?id=com.trivago,travel,RUNS seems fine,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS,SUCCESS
+
+cathybuy.app.shoppingfashion,https://play.google.com/store/apps/details?id=cathybuy.app.shoppingfashion,shopping,ERROR apktool failure
+com.amazon.mShop.android.shopping,https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping,shoping,ERROR adb installation failure
+de.karstadt.karstadt,https://play.google.com/store/apps/details?id=de.karstadt.karstadt,shoppping,ERROR german
+com.adidas.app,https://play.google.com/store/apps/details?id=com.adidas.app,shopping,ERROR apktool failure
+com.meijer.mobile.meijer,https://play.google.com/store/apps/details?id=com.meijer.mobile.meijer,shopping,ERROR
+de.zalando.mobile,https://play.google.com/store/apps/details?id=de.zalando.mobile,shopping,ERROR version error keeps showing the same screen
+com.deichmann.deichmannapp,https://play.google.com/store/apps/details?id=com.deichmann.deichmannapp.shopping,shopping,RUNS but language problem
+com.inditex.pullandbear,https://play.google.com/store/apps/details?id=com.inditex.pullandbear,shopping,RUNS but keeps showing the same screen
+de.cellular.ottohybrid,https://play.google.com/store/apps/details?id=de.cellular.ottohybrid,shopping,RUNS but keeps showing the same screen
+com.nike.omega,https://play.google.com/store/apps/details?id=com.nike.omega,shopping,RUNS
+com.inditex.zara,https://play.google.com/store/apps/details?id=com.inditex.zara,shopping,RUNS
+com.ebay.mobile,https://play.google.com/store/apps/details?id=com.ebay.mobile,shopping,RUNS
+com.shopstyle,https://play.google.com/store/apps/details?id=com.shopstyle,shopping,RUNS
+jp.co.rakuten.Shopping.global,https://play.google.com/store/apps/details?id=jp.co.rakuten.Shopping.global,shopping,RUNS
+
+com.top.torch.ultra.light.led.brightest,https://play.google.com/store/apps/details?id=com.top.torch.ultra.light.led.brightest,flashlight,ERROR Ultra Color Flashlight –Flash Call Screen_v1.0.8_apkpure.com.apk apktool
+com.flash.magic.flashlight,https://play.google.com/store/apps/details?id=com.flash.magic.flashlight,flashlight,ERROR installation failure
+com.led.flashlightapp.light,https://play.google.com/store/apps/details?id=com.led.flashlightapp.light,flashlight,ERROR com.led.flashlightapp.light_60_apps.evozi.com.apk apktool error
+com.happyhollow.flash.torchlight,https://play.google.com/store/apps/details?id=com.happyhollow.flash.torchlight,flashlight,
+com.flashlightsuper.tung.flashlight,https://play.google.com/store/apps/details?id=com.flashlightsuper.tung.flashlight,flashlight,
+com.sfrees.flashlight,https://play.google.com/store/apps/details?id=com.sfrees.flashlight,flashlight,
+com.socialnmobile.hd.flashlight,https://play.google.com/store/apps/details?id=com.socialnmobile.hd.flashlight,flashlight,
+net.com.flash2018,https://play.google.com/store/apps/details?id=net.com.flash2018,flashlight,
+ru.ishalyapin.flashlight,https://play.google.com/store/apps/details?id=ru.ishalyapin.flashlight,flashlight,
+com.super.led.flashlight.morse,https://play.google.com/store/apps/details?id=com.super.led.flashlight.morse,flashlight,
+
+
+
+
+
+
+
+
+
+com.sonymobile.xperiaweather,https://play.google.com/store/apps/details?id=com.sonymobile.xperiaweather,weather,ERROR INSTALL_FAILED_MISSING_SHARED_LIBRARY
+pro.burgerz.miweather8,https://play.google.com/store/apps/details?id=pro.burgerz.miweather8,weather,ERROR Only widget based
+com.windyty.android,https://play.google.com/store/apps/details?id=com.windyty.android,weather,RUNS
+
+phone booster domain?
+https://play.google.com/store/apps/details?id=com.phone.booster.android.optimizer
+https://play.google.com/store/apps/details?id=com.power.clean.android.optimizer
+
+se.dagsappar.beer,https://play.google.com/store/apps/details?id=se.dagsappar.beer,,
+starbucks,,,Starbucks_v5.6_apkpure.com.apk brut.androlib.res.decoder.AXmlResourceParser.getNonDefaultNamespaceUri(AXmlResourceParser.java:312) Nullpointer in ./addSecurityExceptions.sh
