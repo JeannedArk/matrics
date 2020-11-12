@@ -33,7 +33,7 @@ One of the key contributions to this thesis is the development of metrics to mea
 We apply statistical analysis, namely Tukey's fences, on the app and use case levels to determine standard behavior of our usability metrics.
 As a consequence, we learn how the majority of apps implements certain usability properties.
 At the same time, the statistical analysis detects outliers indicating potential usability flaws,
-such as "App $X$ has a significantly higher number of network requests for the login use case, compared to all other apps".
+such as "App X has a significantly higher number of network requests for the login use case, compared to all other apps".
 
 Our approach does not aim to replace user studies, but rather to make user studies more effective
 and enable those who do not have sufficient resources to also be able to assess usability.
